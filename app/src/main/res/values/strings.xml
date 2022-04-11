@@ -3,5 +3,6 @@
     <string name="initial_count">0</string>
     <string name="button_label_toast">Toast</string>
     <string name="button_label_count">Count</string>
+    <string name="button_label_zero">Zero</string>
     <string name="toast_message">Hello Toast!</string>
 </resources>
